@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220
 
-A demonstration of this exercise can be found at [https://youtu.be/uCh7VhG-yr4](https://youtu.be/uCh7VhG-yr4).
+A demonstration of this exercise can be found at [https://youtu.be/uCh7VhG-yr4](https://youtu.be/uCh7VhG-yr4) (21 minutes).
 
 This exercise is designed to continue our creation of a 2D Platformer, by demonstrating some of the complications in using Tilemaps for consumable items.
 
